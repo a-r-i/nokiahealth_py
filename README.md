@@ -1,1 +1,1 @@
-# NokiaHealthAPI_Python
+# nokiahealth_py
